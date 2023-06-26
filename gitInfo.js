@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = 'Using git, you can store your code, return to it later, and maintain track of your files.';
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = 'is a place where online developers can exchange code and work together.'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = 'a command that establishes a fresh Git repository'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = 'is usually used to clone or duplicate an existing repository.'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = 'an approach for figuring out if files have changed or been added'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = 'An approach to determine if files have been prepared or not'
+let gitAddCode = 'git add .'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,8 +65,8 @@
 */
 
 //CODE HERE
-
-
+let gitCommitDefinition = 'is a command that prepares staging for pushing to a remote repository by committing changes that have been made to it.'
+let gitCommitCode = 'firstt commit'
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +74,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = 'Committed files are sent to a remote Github repository.'
